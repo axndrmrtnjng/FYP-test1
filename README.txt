@@ -1,2 +1,2 @@
-Apa kabar
-Hello world
+Hola
+Hello dunia
